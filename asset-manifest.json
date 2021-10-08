@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tictactoi-inreact/static/css/main.ada28601.chunk.css",
+    "main.js": "/tictactoi-inreact/static/js/main.c6a0f0fe.chunk.js",
+    "main.js.map": "/tictactoi-inreact/static/js/main.c6a0f0fe.chunk.js.map",
+    "runtime-main.js": "/tictactoi-inreact/static/js/runtime-main.87c863a7.js",
+    "runtime-main.js.map": "/tictactoi-inreact/static/js/runtime-main.87c863a7.js.map",
+    "static/js/2.2e0fa88d.chunk.js": "/tictactoi-inreact/static/js/2.2e0fa88d.chunk.js",
+    "static/js/2.2e0fa88d.chunk.js.map": "/tictactoi-inreact/static/js/2.2e0fa88d.chunk.js.map",
+    "static/js/3.a6bd3dbf.chunk.js": "/tictactoi-inreact/static/js/3.a6bd3dbf.chunk.js",
+    "static/js/3.a6bd3dbf.chunk.js.map": "/tictactoi-inreact/static/js/3.a6bd3dbf.chunk.js.map",
+    "index.html": "/tictactoi-inreact/index.html",
+    "static/css/main.ada28601.chunk.css.map": "/tictactoi-inreact/static/css/main.ada28601.chunk.css.map",
+    "static/js/2.2e0fa88d.chunk.js.LICENSE.txt": "/tictactoi-inreact/static/js/2.2e0fa88d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87c863a7.js",
+    "static/js/2.2e0fa88d.chunk.js",
+    "static/css/main.ada28601.chunk.css",
+    "static/js/main.c6a0f0fe.chunk.js"
+  ]
+}
